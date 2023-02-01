@@ -14,4 +14,4 @@ Credits:
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 
-LINK TO THE SITE: https://ibrahim-yusuf.netlify.app/
+LINK TO THE SITE: https://ibrahim-yusuf.netlify.app
