@@ -11,7 +11,7 @@ Scan here to check the site on your phone.
 ## Screenshots
 
 ![App Screenshot](https://user-images.githubusercontent.com/85551204/217935767-17a715d0-2225-45a3-9cdc-1ccefb9215a3.png)
-)
+
 
 
 ## Badges
