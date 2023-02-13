@@ -1,7 +1,7 @@
 
 # My Portfolio
 
-The project Portfolio, is a static website that I designed and depoloyed on netlify.com to showcase the different type of skills I posses and other projects that I have worked on. The projected is hosted by github and netlify.
+The project Portfolio, is a static website that I designed and deployed on netlify.com to showcase the different type of skills I posses and other projects that I have worked on. The projected is hosted by github and netlify.
 
 Observe live link of the project here:
 https://ibrahim-yusuf.netlify.app
