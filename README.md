@@ -28,8 +28,8 @@ Scan here to check the site on your phone.
 
 - Menu tab 
 - Live previews
-- Fullscreen mode
-- Cross platform/ fully responsive
+- Fully responsive
+- Cross platform
 - User friendly
 
 
