@@ -1,4 +1,5 @@
 
+
 # My Portfolio
 
 The project Portfolio, is a static website that I designed and deployed on netlify.com to showcase the different type of skills I posses and other projects that I have worked on. The projected is hosted by github and netlify.
@@ -11,6 +12,8 @@ Scan here to check the site on your phone.
 ## Screenshots
 
 ![App Screenshot](https://user-images.githubusercontent.com/85551204/217935767-17a715d0-2225-45a3-9cdc-1ccefb9215a3.png)
+
+![profile](https://user-images.githubusercontent.com/85551204/219461261-e460a734-7e0f-4443-89f1-1aa1bfad7dba.JPG)
 
 
 
